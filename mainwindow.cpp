@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    int a=5;
+    int a=10;
 }
 
 MainWindow::~MainWindow()
